@@ -43,7 +43,7 @@ body > header {
     display: flex;
     list-style: none;
     text-decoration: none;
-    background-color: rgb(60, 80, 255);
+    background-color: rgb(58, 78, 255);
     height: 7.5vh;
     align-items: center;
     justify-content: space-around;
